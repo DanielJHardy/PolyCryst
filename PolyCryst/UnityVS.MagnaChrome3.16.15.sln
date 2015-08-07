@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MagnaChrome3.16.15.CSharp.Plugins", "UnityVS.MagnaChrome3.16.15.CSharp.Plugins.csproj", "{11CBA5AB-BD6A-C6CD-4A25-D1B2751E64B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MagnaChrome3.16.15.CSharp", "UnityVS.MagnaChrome3.16.15.CSharp.csproj", "{6B9BC347-ADC2-22F8-B796-3F9AD04EA869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CBA5AB-BD6A-C6CD-4A25-D1B2751E64B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CBA5AB-BD6A-C6CD-4A25-D1B2751E64B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CBA5AB-BD6A-C6CD-4A25-D1B2751E64B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CBA5AB-BD6A-C6CD-4A25-D1B2751E64B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9BC347-ADC2-22F8-B796-3F9AD04EA869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9BC347-ADC2-22F8-B796-3F9AD04EA869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9BC347-ADC2-22F8-B796-3F9AD04EA869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9BC347-ADC2-22F8-B796-3F9AD04EA869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
